@@ -1,4 +1,4 @@
-# Mammoth-3D @ Printables.com <a href='https://www.printables.com/@Mammoth3D_2076590/models' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://github.com/Mammoth-3D/How-Your-Support-Helps-Mammoth-3D/blob/main/Mammoth-3DatPrintables.png' border='0' alt='Mammoth-3D @ Printables.com' /></a> 
+# Mammoth-3D @ Printables.com <a href='https://www.printables.com/@Mammoth3D_2076590/models' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://github.com/Mammoth-3D/How-Your-Support-Helps-Mammoth3D/blob/main/Mammoth-3DatPrintables.png' border='0' alt='Mammoth-3D @ Printables.com' /></a> 
 
 # Supporting Innovation with Mammoth-3D
 
@@ -8,7 +8,7 @@ By choosing to pay a small fee ($5 - $10) for Mammoth-3D parts, end users contri
 - **Improve Quality and Performance**: Continuous improvement efforts ensure that Mammoth-3D parts meet the highest standards of quality and performance.
 - **Expand Material Options**: Funding supports the exploration and introduction of new materials, providing users with more choices for their projects.
 
-![Mammoth-3D on www.printables.com](https://github.com/Mammoth-3D/How-Your-Support-Helps-Mammoth-3D/blob/main/Mammoth-3D%20piggy%20bank.png)
+![Mammoth-3D on www.printables.com](https://github.com/Mammoth-3D/How-Your-Support-Helps-Mammoth3D/blob/main/Mammoth-3D%20piggy%20bank.png)
 
 ## Open Source
 Additionally, Mammoth-3D ensures that its contributions to the 3D printing community extend beyond immediate financial support. All published files and projects will move to open source after a period of six months. This means that if an end user does not wish to pay for the project files now, they will have access to these resources for free after six months. This approach balances immediate funding needs with a long-term commitment to open access and community support.
@@ -78,3 +78,4 @@ Post-production costs can also impact the overall budget for developing a 3D pri
 ## Conclusion
 
 The cost of developing and engineering a 3D printed component or part is influenced by various factors, including design and conceptualization, prototyping and testing, final production preparation, and post-production considerations. While 3D printing offers significant advantages in terms of flexibility and customization, careful consideration of the associated costs is crucial for a successful and economically viable project. Additionally, by paying a small fee for Mammoth-3D parts, users not only receive high-quality components but also support the ongoing innovation and development efforts of Mammoth-3D, ensuring continuous improvements and advancements in 3D printing technology. Plus, the promise of open-source access after six months makes it an inclusive initiative that benefits the entire 3D printing community.
+
