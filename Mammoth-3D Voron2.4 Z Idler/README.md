@@ -145,5 +145,5 @@ By choosing to pay a small fee ($5 - $10) for Mammoth-3D parts, end users contri
 </p>
 
 [![Discord Invite](https://discord.com/api/guilds/1240273232247132233/widget.png?style=banner2)](https://discord.gg/BYsPd88xSC)
-[![printables.com](https://github.com/mammoth-3D/How-Your-Support-Helps-Mammoth3D/blob/main/Mammoth-3DatPrintables.png)
+[![printables.com](https://github.com/mammoth-3D/How-Your-Support-Helps-Mammoth3D/blob/main/Mammoth-3DatPrintables.png)](https://www.printables.com/@Mammoth3D_2076590/models)
 [![Buy Me a Coffee at ko-fi.com](https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0)](https://ko-fi.com/mammoth3d)
