@@ -1,4 +1,4 @@
-# Mammoth-3D Voron2.4 Z Idler @ Printables.com <a href='https://www.printables.com/@Mammoth3D_2076590/models' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://github.com/Mammoth-3D/How-Your-Support-Helps-Mammoth-3D/blob/main/Mammoth-3DatPrintables.png' border='0' alt='Mammoth-3D @ Printables.com' /></a> 
+# Mammoth-3D Voron2.4 Z Idler @ Printables.com <a href='https://www.printables.com/@Mammoth3D_2076590/models' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://github.com/mammoth-3D/How-Your-Support-Helps-Mammoth3D/blob/main/Mammoth-3DatPrintables.png' border='0' alt='Mammoth-3D @ Printables.com' /></a> 
 
 By choosing to pay a small fee ($5 - $10) for Mammoth-3D parts, end users contribute to the continuous development and innovation of Mammoth-3D’s 3D printing technology. 
 
@@ -144,10 +144,6 @@ By choosing to pay a small fee ($5 - $10) for Mammoth-3D parts, end users contri
   <img src="images/main_body_9.png" width="400">
 </p>
 
-<table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><img src="https://i.countdownmail.com/3cvm8v.gif" style="display:inline-block!important;width:100%!important;max-width:264px!important;" border="0" alt="countdownmail.com"/></td></tr></tbody></table>
-
-
-
 [![Discord Invite](https://discord.com/api/guilds/1240273232247132233/widget.png?style=banner2)](https://discord.gg/BYsPd88xSC)
-[![printables.com](https://github.com/Mammoth-3D/How-Your-Support-Helps-Mammoth-3D/blob/main/Mammoth-3DatPrintables.png)](https://www.printables.com/@Mammoth3D_2076590/models)
+[![printables.com](https://github.com/mammoth-3D/How-Your-Support-Helps-Mammoth3D/blob/main/Mammoth-3DatPrintables.png)
 [![Buy Me a Coffee at ko-fi.com](https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0)](https://ko-fi.com/mammoth3d)
