@@ -155,4 +155,4 @@ By choosing to pay a small fee ($5 - $10) for Mammoth-3D parts, end users contri
 <a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Zurich" data-date="2025-01-31 23:59">Time remaining till files are open source</a>
 
 
-<img src="https://logwork.com/countdown-ft3u" alt="mystreak"/>
+<img <script src="https://cdn.logwork.com/widget/countdown.js"></script> alt="mystreak"/>
