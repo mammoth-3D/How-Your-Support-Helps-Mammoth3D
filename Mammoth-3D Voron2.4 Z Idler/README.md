@@ -147,3 +147,9 @@ By choosing to pay a small fee ($5 - $10) for Mammoth-3D parts, end users contri
 [![Discord Invite](https://discord.com/api/guilds/1240273232247132233/widget.png?style=banner2)](https://discord.gg/BYsPd88xSC)
 [![printables.com](https://github.com/mammoth-3D/How-Your-Support-Helps-Mammoth3D/blob/main/Mammoth-3DatPrintables.png)](https://www.printables.com/@Mammoth3D_2076590/models)
 [![Buy Me a Coffee at ko-fi.com](https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0)](https://ko-fi.com/mammoth3d)
+
+
+<https://logwork.com/countdown-ft3u />
+
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Zurich" data-date="2025-01-31 23:59">Time remaining till files are open source</a>
