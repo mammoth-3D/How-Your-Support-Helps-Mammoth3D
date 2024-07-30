@@ -156,3 +156,7 @@ By choosing to pay a small fee ($5 - $10) for Mammoth-3D parts, end users contri
 
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
+
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
