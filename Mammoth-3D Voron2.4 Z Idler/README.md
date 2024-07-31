@@ -149,3 +149,5 @@ By choosing to pay a small fee ($5 - $10) for Mammoth-3D parts, end users contri
 [![Buy Me a Coffee at ko-fi.com](https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0)](https://ko-fi.com/mammoth3d)
 
 <iframe width="300" height="154" src="https://w2.countingdownto.com/5694476" frameborder="0"></iframe>
+
+[![ GitHub](https://w2.countingdownto.com/5694476)](https://w2.countingdownto.com/5694476)
