@@ -148,6 +148,4 @@ By choosing to pay a small fee ($5 - $10) for Mammoth-3D parts, end users contri
 [![printables.com](https://github.com/mammoth-3D/How-Your-Support-Helps-Mammoth3D/blob/main/Mammoth-3DatPrintables.png)](https://www.printables.com/@Mammoth3D_2076590/models)
 [![Buy Me a Coffee at ko-fi.com](https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0)](https://ko-fi.com/mammoth3d)
 
-<iframe width="300" height="154" src="https://w2.countingdownto.com/5694476" frameborder="0"></iframe>
-
-[![ GitHub](https://w2.countingdownto.com/5694476)](https://w2.countingdownto.com/5694476)
+<img src="https://i.countdownmail.com/3fpc9b.gif" border="0" alt="countdownmail.com"/>
